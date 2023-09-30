@@ -36,6 +36,8 @@
                    [Computer Science with AI](https://www.tamuc.edu/programs/computer-science-ms-landing-page/?utm_source=google&utm_medium=cpc&utm_campaign=COM_Programs_Grad_CompSci_COSE_2022&gclid=CjwKCAjwnZaVBhA6EiwAVVyv9L1pvDB-Nxim133uKcuizIvsKiQ0gyPNgd1beusHkCh4-Q5U15YlHBoCPDMQAvD_BwE),
                    [Analytics](https://mays.tamu.edu/ms-analytics/),
                    [Business Analytics](https://www.tamuc.edu/programs/business-analytics-ms/)
+* Application Fee: $90
+* English Language Tests: GRE(optional), TOEFL(> 90), IELTS(> 6.0)
                    
 #### 4. Rice University, Houston(Private)
 * Click [here](https://engineering.rice.edu/) for the website
